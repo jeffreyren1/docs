@@ -1,9 +1,6 @@
-
 ---
-
 title: "Hello world"
 description: "My first blog"
-
 ---
 
 **Hello everyone!**

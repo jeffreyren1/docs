@@ -55,7 +55,7 @@
             "group": "Customization",
             "pages": [
               "docs/mintlify-guides/customization/global-settings",
-              "docs/mintlify-guides/customization/navigation.mdx"
+              "docs/mintlify-guides/customization/navigation"
             ]
           },
           {

@@ -1,9 +1,6 @@
-
 ---
-
 title: ISAC 核心概念
 description: 介绍 ISAC 核心概念、现状、展望
-
 ---
 
 # ISAC Integrated sensing and communication
