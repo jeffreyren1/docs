@@ -122,30 +122,12 @@
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         }
-        // {
-        //   "anchor": "Blog",
-        //   "href": "https://mintlify.com/blog",
-        //   "icon": "newspaper"
-        // }
       ]
     }
   },
   "logo": {
     "light": "/assets/favicon.ico",
     "dark": "/assets/favicon.ico"
-  },
-  "navbar": {
-    // "links": [
-    //   {
-    //     "label": "Support",
-    //     "href": "mailto:hi@mintlify.com"
-    //   }
-    // ],
-    // "primary": {
-    //   "type": "button",
-    //   "label": "Dashboard",
-    //   "href": "https://dashboard.mintlify.com"
-    // }
   },
   "contextual": {
     "options": [
