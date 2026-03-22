@@ -1,24 +1,8 @@
 
 ---
+
 title: "Hello world"
 description: "My first blog"
-subtitle:
-author: Jeffrey
-categories: misc
-tags: [text, misc]
-top: 1
-banner:
-  video: <https://vjs.zencdn.net/v/oceans.mp4>
-  loop: true
-  volume: 0.5
-  start_at: 8.5
-  image: /assets/images/banners/home5.png  
-  opacity: 0.618
-  background: "#000000"
-  height: "100vh"
-  min_height: "38vh"
-  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
-  subheading_style: "color: gold"
 
 ---
 

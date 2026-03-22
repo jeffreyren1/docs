@@ -17,7 +17,7 @@
             "group": "简介",
             "pages": [
               "docs/isac/intro/orgnization",
-              "docs/isac/intro/core-concepts"
+              "docs/isac/intro/core-concept"
             ]
           },
           {
@@ -25,36 +25,19 @@
             "pages": [
               "docs/isac/code/simulation"
             ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "docs/mintlify-guides/writing-content/markdown",
-              "docs/mintlify-guides/writing-content/code",
-              "docs/mintlify-guides/writing-content/images",
-              "docs/mintlify-guides/writing-content/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "docs/mintlify-guides/ai-tools/cursor",
-              "docs/mintlify-guides/ai-tools/claude-code",
-              "docs/mintlify-guides/ai-tools/windsurf"
-            ]
           }
-        ]
-      },
-      {
-        "tab": "About Me",
-        "pages": [
-          "docs/about-me/about-me"
         ]
       },
       {
         "tab": "Blogs",
         "pages": [
           "docs/posts/2024-01-10-hello-world"
+        ]
+      },
+      {
+        "tab": "About Me",
+        "pages": [
+          "docs/about-me/about-me"
         ]
       },
       {
@@ -118,7 +101,7 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Mntlify Documentation",
+          "anchor": "Mintlify Doc",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         }
