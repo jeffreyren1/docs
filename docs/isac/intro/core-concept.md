@@ -1,11 +1,9 @@
 ---
 title: ISAC 核心概念
-description: 介绍 ISAC 核心概念、现状、展望
+description: 介绍 ISAC核心概念、现状、展望
 ---
 
 # ISAC Integrated sensing and communication
-
-<https://arxiv.org/pdf/2210.00446>
 
 ISAC（Integrated Sensing and Communication，通感一体化）是指通过同一套设备和网络实现通信与感知两种业务的集成，旨在拓展通信网络的功能并普及感知业务。它被ITU-R面向IMT-2030的框架确认为是6G的重要候选技术之一。ISAC的应用前景广泛，包括超高精度定位、同步成像和人类感官增强等。
 
